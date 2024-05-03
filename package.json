@@ -4,7 +4,9 @@
   "description": "Will LeVan - Portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build"
   },
   "author": "Will LeVan",
   "license": "ISC",
